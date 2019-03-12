@@ -1,0 +1,96 @@
+// version: 1.0.0
+// last updated 10/20/2018
+
+// defaults
+$default-green-color: #00ff00;
+$default-gray-lite-color: #ccc;
+$default-dark-color: #000000;
+$default-gray-lite-color-dim: rgba(204,204,204, .5);
+$default-gray-dark-color: #5B646B;
+$default-red-color: #ff0000;
+$default-black-color: black;
+$default-blue-color: blue;
+$default-btn-color: rgb(221, 221, 221);
+$default-color-disabled-bg-btn: rgba(204,204,204, 1);
+$default-white-color: white;
+
+
+// brand specific
+$brand-button-primary-color: #0174B8;
+$brand-gray-dark-color: #5B646B;
+
+$brand-color-lr: #0174B8;
+$brand-color-lb: #0174B8;
+$brand-color-mb: rgb(0, 94, 143);
+$brand-color-hr: rgb(0, 60, 113);
+$brand-color-hb: rgb(0, 60, 113);
+$brand-color-lite-green: rgb(239, 244, 244);
+$brand-color-dark-green: rgb(1, 131, 128);
+$brand-color-text-green: #018380;
+$brand-color-text_summary_text: #003c71;
+$brand-color-downArrow: #0174B8;
+$brand-color-rightArrow: #0174B8;
+$brand-color-lr-active: rgb(239, 244, 244);
+$brand-color-lb-active: rgb(239, 244, 244);
+$brand-color-mr-active: rgb(239, 244, 244);
+$brand-color-hb-active: rgb(239, 244, 244);
+$brand-color-fare-active-bg: rgb(239, 244, 244);
+$brand-color-fare-active-text: $brand-color-text-green;
+$brand-button-primary-color-focus-text: $default-white-color;
+
+$default-color-disabled-text: $brand-color-fare-active-text;
+$default-color-disabled-text-hover: $default-dark-color;
+
+$panel-background-color-default: #eff4f4;
+
+$brand-summary-header-color: #003c71;
+$brand-summary-header-text-dark-color: #0174B8;
+$brand-summary-bg-color: #eff4f4;
+$brand-summary-h3-color: #003c71;
+$brand-summary-box-lineup: #003c71;
+$brand-summary-box-outline: #C5C8CC;
+$brand-summary-box-outline-text: rgb(91, 100, 107);
+
+//sizing
+$brand-text-size-default: 1.5rem;
+$brand-text-size-l: 2.1rem;
+
+//weights
+$brand-text-weight-h3: 400;
+$brand-text-weight-h2: 400;
+$brand-text-weight-lightest: 100;
+$brand-text-weight-lighter: 200;
+$brand-text-weight-light: 300;
+$brand-text-weight-default: 400;
+$brand-text-weight-bold: 500;
+$brand-text-weight-bolder: 700;
+$brand-text-weight-boldest: 900;
+
+$brand-text-size-h1: 2.5rem;
+$brand-text-size-h2: 1.625rem; // 26px
+$brand-text-size-h3: 1.3rem; // 18px
+$brand-text-size-default: $brand-text-size-default;
+$brand-text-size-p: 1rem;
+
+$brand-text-size-mobile-sm: 1rem;
+$brand-text-size-mobile-md: 1.2rem;
+$brand-text-size-mobile-lg: 1.5rem;
+
+
+//labels
+$brand-label-text-default: rgba(91, 100, 107,.9);
+$brand-bg-color-summary: rgb(239, 244, 244);
+
+//indents
+$default-indent-left: 1.5rem;
+
+// progress
+$brand-progress-circle-underlay-color: #018380;
+$brand-progress-circle-tickmark-color: #003c71;
+$brand-progress-circle-text-msg-color: $default-gray-dark-color;
+$brand-progress-circle-text-toute-color: $default-gray-dark-color;
+
+// 2019 March -added
+$brand-compare-text: #00a15f;
+$brand-check: #00a15f;
+$brand-info: #0174b8;
