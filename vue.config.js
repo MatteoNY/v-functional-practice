@@ -8,8 +8,8 @@ module.exports = {
         }
       }
     },
-   // outputDir: 'dist/vfunpractice',
-   // publicPath: 'dist/vfunpractice'
+    //outputDir: 'dist/vfunpractice',
+    //publicPath: 'dist/vfunpractice'
     // filenameHashing: true,
     
   }

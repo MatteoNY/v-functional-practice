@@ -1,0 +1,232 @@
+[
+    {
+      "key": "L",
+      "value": "Economy",
+      "touteImg" : "https://picsum.photos/219/219?random",
+      "touteText": "Low fares, a standard seat, and the ability to customize some aspects of your trip.",
+      "types": [
+        {
+          "key": "LR",
+          "value": "Basic",
+          "content": [
+            {
+              "ico": "check_circle",  
+              "text": "WestJet Rewards earn"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Flight changes or cancellations"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Advance seat selection for a higher fee"
+            },
+            {
+              "ico": "check_circle", 
+              "text": "Checked bags with fee"
+            }
+          ]
+        },
+        {
+          "key": "LB",
+          "value": "Econo",
+          "content": [
+            {
+              "ico": "check_circle",
+              "text": "WestJet Rewards earn"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Flight changes or cancellations"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Advance seat selection for fee"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Checked bags with fee"
+            }
+          ]
+        },
+        {
+          "key": "LZ",
+          "value": "zEconoFlex",
+          "content": [
+            {
+              "ico": "check_circle",    
+              "text": "WestJet Rewards earn"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Flight changes or cancellations"
+            },
+            {
+              "ico": "check_circle",  
+              "text": "Standard seat selection"
+            },
+            {
+              "ico": "check_circle",     
+              "text": "1 Checked bag"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "M",
+      "value": "Premium",
+      "touteImg" : "https://www.journeysoft.com/a6-rc-elements/assets/reactions/uno.svg",
+      "touteText": "Treat yourself to a Premium seat and travel in style and comfort with dedicated service.",
+      "types": [
+        {
+          "key": "MB",
+          "value": "Premium",
+          "content": [
+            {
+              "ico": "check_circle",       
+              "text": "WestJet Rewards earn"
+            },
+            {
+              "ico": "info",
+              "text": "Flight changes or cancellations"
+            },
+            {
+              "ico": "check_circle",  
+              "text": "Premium seats"
+            },
+            {
+              "ico": "check_circle", 
+              "text": "2 Checked bags"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Priority screening"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Priority boarding"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Food and beverages (incl. wine, beer & spirits)"
+            }
+          ]
+        },
+        {
+          "key": "MF",
+          "value": "zPremiumFlex",
+          "content": [
+            {
+              "ico": "check_circle",
+              "text": "WestJet Rewards earn"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Flight changes or cancellations"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Premium seats"
+            },
+            {
+              "ico": "check_circle",     
+              "text": "2 Checked bags"
+            },
+            {
+              "ico": "check_circle", 
+              "text": "Priority screening"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Priority boarding"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Food and beverages (incl. wine, beer & spirits)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "H",
+      "value": "Business",
+      "touteImg" : "https://picsum.photos/g/219/219?random",
+      "touteText": "Treat yourself to a Personal Pod and travel in style and comfort with dedicated service.",
+      "types": [
+        {
+          "key": "HB",
+          "value": "PremiumFlex",
+          "content": [
+            {
+              "ico": "check_circle",
+              "text": "WestJet Rewards earn"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Flight changes or cancellations"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Premium seats"
+            },
+            {
+              "ico": "check_circle",     
+              "text": "2 Checked bags"
+            },
+            {
+              "ico": "check_circle", 
+              "text": "Priority screening"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Priority boarding"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Food and beverages (incl. wine, beer & spirits)"
+            }
+          ]
+        },
+        {
+          "key": "HR",
+          "value": "BusinessFlex",
+          "content": [
+            {
+              "ico": "check_circle",
+              "text": "WestJet Rewards earn"
+            },
+            {
+              "ico": "check_circle",  
+              "text": "Flight changes or cancellations"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Personal pod with lie-flat bed"
+            },
+            {
+              "ico": "check_circle",
+              "text": "2 Checked bags"
+            },
+            {
+              "ico": "check_circle",   
+              "text": "Priority baggage"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Lounge access"
+            },
+            {
+              "ico": "check_circle",
+              "text": "Beverages (including wine, beer, & spirits)"
+            },
+            {
+              "ico": "check_circle",
+              "text": "On-demand dining (International)"
+            }
+          ]
+        }
+      ]
+    }
+  ]

@@ -4,7 +4,7 @@ import AsyncHelperLib from '@/store/async-helper-lib'
 const asyncHelperLib = new AsyncHelperLib();
 
 let API_DATA_URI_FARE_COMPARE = ''
-API_DATA_URI_FARE_COMPARE = '/category-data.json'
+API_DATA_URI_FARE_COMPARE = 'https://journeysoft.com/dist/vfunpractice/category-data.json'
 
 function fareCompareL1(arr) {
   return arr.map(data => {

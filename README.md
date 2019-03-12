@@ -1,4 +1,6 @@
 # poc-fast-array-lookup
+Prototype component that reads data via Axios and Vuex for state management. 
+<a href="https://journeysoft.com/dist/vfunpractice/#/">View Vue demo</a>
 
 ## Project setup
 ```
